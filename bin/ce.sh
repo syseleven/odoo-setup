@@ -13,6 +13,7 @@ OCA_DIR="$PROJECT_DIR/addons/oca"
 ADDONS=(
 $ODOO_DIR/odoo/addons
 $ODOO_DIR/addons
+$PROJECT_DIR/projects
 )
 
 # run
