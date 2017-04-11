@@ -11,9 +11,8 @@ ODOO_DIR="$PROJECT_DIR/odoo"
 OCA_DIR="$PROJECT_DIR/addons/oca"
 
 ADDONS=(
-$ODOO_DIR/openerp/addons
+$ODOO_DIR/odoo/addons
 $ODOO_DIR/addons
-$OCA_DIR
 )
 
 # run
